@@ -9,5 +9,7 @@ public class ABCD {
         System.out.println("444444444");
         System.out.println("5555555555");
         System.out.println("6666666666");
+        System.out.println("777777777");
+        System.out.println("一点啦");
     }
 }
